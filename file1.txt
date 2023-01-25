@@ -1,0 +1,37 @@
+1. pwd - prints the working directory.
+
+2. git config --global user.email"example@example.com" - joins the email to the local git on your computer.
+
+3. git config --global user.name"usernameexample" - joins the github account to the local git on your computer through the username.
+
+4. git init - initialises an empty git repository in the present working directory.
+
+5. touch abc.txt - creates a file named abc with the extension .txt.
+
+6. vi abc.txt - helps in viewing and editing the created file abc.txt.
+
+7. ls - shows the list of files or folders present in the present working directory.
+
+8. cat abc.txt - only helps viewing the fle abc.txt
+
+9. git status - shows the current status of git i.e. tells which files are tracked and untracked.
+
+10. git version - tells which version of git are we using.
+
+11. mkdir abc - creates a file folder named abc in the present working directory.
+
+12. cd abc - helps us opening the folder named abc in the present working directory (it also changes the pwd).
+
+13. cd .. - it takes us one folder back.
+
+14. git add abc.txt - tracks this file in the git to be able to commit.
+
+15. git commit -m "First commit" - does a first commit of all the tracked files.
+
+16. git commit -a -m "Second Commit" - does a second or more commits of all theb tracked files.
+
+17. git log - shows the repository's history 
+
+18. history - shows all the commands used.
+
+19. ls -ah - shows the list of folders including hidden ones.
